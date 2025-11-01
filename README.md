@@ -1,1 +1,3 @@
-# Cloud-computing-task--7
+# Cloud-computing-task--7<img width="1024" height="1536" alt="cloud computing 7 2" src="https://github.com/user-attachments/assets/0d769c97-a070-4ea7-a9f1-4195ea0951fe" />
+<img width="1536" height="1024" alt="cloud computing 7 1" src="https://github.com/user-attachments/assets/eeb690f2-6ec0-4744-a565-4877656e1469" />
+I deployed a simple web application on multiple virtual machines and configured a load balancer to distribute incoming traffic. An auto scaling group was created to automatically launch or terminate instances based on CPU utilization. When the load increased, new instances were created; when it decreased, unused ones were removed — ensuring performance and cost efficiency.
